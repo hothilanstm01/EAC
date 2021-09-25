@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+}
+
+.roww{
+    width: 100%;
+    float: left;
+}
+
+.boxcenter_content_tip{
+    width: 95%;
+    margin: 0 auto;
+}
+
+
+
+.fix_contenttip{
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 5vh;
+    background: gray;
+    padding: 10px;
+    text-align: center;
+}
+
+.fix_contenttip a{
+    
+    color: white;
+}
+
+.fix_contenttip a:hover{
+    color: rgb(211, 211, 211);
+    text-decoration: none;
+}
+
+.tip_small{
+    color: black;
+    font-weight: bold;
+    padding: 0vh 0vh 5vh 0vh;
+}
+
+.content_form_edit{
+    width: 100%;
+    height: 100vh;
+}
+
+.left_content_edit {
+    width: 100%;
+    height: 100%;
+}
+
+.file_edittip {
+    width: 90%;
+    height: 5vh;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.file_edittip label {
+    color: black;
+    height: 30px;
+    width: 100px;
+    background-color: #999999;
+    /* left: 17%; */
+    margin: 0 auto;
+    font-size: 17px;
+    opacity: 0.8;
+    line-height: 30px;
+    justify-content: center;
+    transition: all 0.5s;
+}
+
+.btn_luuedit{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btnluu_edittip {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    transition: 0.5s;
+    font-family: 'Baloo Thambi 2', cursive;
+}
+

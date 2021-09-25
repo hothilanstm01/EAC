@@ -1,0 +1,167 @@
+/* body{
+    margin: 0;
+}
+.boxleft{
+    width: 20%;
+    float: left;
+    min-height: 1000px;
+    background-color: #5e5e5e;
+}
+.boxright{
+    width: 80%;
+    float: right;
+    min-height: 1000px;
+    background-color: #f8f8f8;
+}
+.boxcentert{
+    width: 90%;
+    margin: 0 auto;
+}
+.boxt{
+    width: calc(23% - 10px);
+    float: left;
+    margin-top: 20px;
+    margin-right: 2%;   
+    background-color: rgb(177, 175, 175);
+    min-height: 300px;
+    box-shadow: 2px 2px 2px 3px rgb(226, 225, 225);
+}
+.tourt{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.backt{
+    width: calc(100% - 110px);
+    float: left;
+    margin: 0px 55px;
+}
+.gobackt, .suat{
+    width: 100px;
+    height: 30px;
+    border: 2px solid #5e5e5e;
+    font-weight: bold;
+    border-radius: 8px ;
+}
+.addt{
+    width: calc(100% - 110px);
+    float: left;
+    margin: 20px 55px;
+    
+}
+.butt{
+    width: 100px;
+    height: 40px;
+    border: 2px solid #5e5e5e;
+    font-weight: bold;
+    border-radius: 8px ;
+}
+.butt a{
+    text-decoration: none;
+    color: black;
+    font-size: 15pt;
+}
+.suat a{
+    text-decoration: none;
+    color: black;
+    font-size: 10pt;
+    padding: 5px;
+}
+.xoat{   
+    width: 100%;   
+    text-align: center;
+}
+.imgt{
+    width: 100%;
+    height: 200px;
+}
+
+.imgt img{
+    width: 100%;
+    height: 200px;
+}
+.tentour{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.tentour a{
+    text-decoration: none;color: black;font-weight: bold;font-size: 12pt;
+} */
+
+/* css của lankute */
+
+
+.box_view_place{
+    margin: 50px 0;
+    float: left;
+    width: 100%;
+    min-height: 400px;
+    border-radius: 10px;
+    background-color:white;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.02),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.028),
+    0 12.5px 10px rgba(0, 0, 0, 0.035),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.042),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.05),
+    0 100px 80px rgba(0, 0, 0, 0.07)
+    ;
+}
+
+.text_view_place{
+    float: left;
+    width: 25%;
+    height: 90px;
+    padding-top: 30px;
+    color: gray;
+    font-family: 'Varela Round', sans-serif;
+    margin-left: 2.5%;
+}
+
+.search{
+    float: left;
+    width: 25%;
+    height: 110px;
+    line-height: 110px;
+}
+
+.search input{
+    width: 100%;
+    height: 50px;
+    background-color: none;
+}
+
+
+.text_view_place span{
+font-size: 3vw;
+padding: 50px 0 0 ;
+color: black;
+}
+
+.btn_tour{
+    width: 40%;
+    height: 110px;
+    line-height:110px;
+    margin-right: 2.5%;
+    float: right;
+}
+
+.fl{
+    float: right;    
+}
+
+select.form-control.form-control-lg.fl{
+    width: 60%;
+    margin-top: 2vw;
+}
+.tendd{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.tendd:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
